@@ -1,4 +1,4 @@
-# Django-Projects
+## video Notes
 
 ![Screenshot from 2022-07-11 18-57-22](https://user-images.githubusercontent.com/109052326/178408356-c9535002-463b-45a4-b367-0b8798ac311d.png)
 ![Screenshot from 2022-07-11 18-57-04](https://user-images.githubusercontent.com/109052326/178408370-82c82728-ab0b-4a91-a1ab-f942839c41d5.png)
